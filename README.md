@@ -28,9 +28,13 @@ The following keywords are related to counterfactual explanations.
   - Authors: Kentaro Kanamori, Takuya Takagi, Ken Kobayashi, Yuichi Ike
   - Proceedings: Proceedings of The 25th International Conference on Artificial Intelligence and Statistics (2022)
 
-- [Counterfactual explanations and how to find them: literature review and benchmarking](https://link.springer.com/article/10.1007/s10618-022-00831-6)
+- [Counterfactual explanations and how to find them: literature review and benchmarking](https://dl.acm.org/doi/abs/10.1145/3510457.3513081)
   - Author: Riccardo Guidotti
   - Article: Data Mining and Knowledge Discovery (2022)
+
+- [Counterfactual Explanations for Models of Code](https://link.springer.com/article/10.1007/s10618-022-00831-6)
+  - Authors: Jürgen Cito, Isil Dillig, Vijayaraghavan Murali, Satish Chandra
+  - Proceedings: Proceedings of the 44th International Conference on Software Engineering: Software Engineering in Practice (2022)
 
 - [Counterfactuals and causability in explainable artificial intelligence: Theory, algorithms, and applications](https://www.sciencedirect.com/science/article/abs/pii/S1566253521002281)
   - Authors: Yu-Liang Chou, Catarina Moreira, Peter Bruza, Chun Ouyang, Joaquim Jorge
@@ -44,9 +48,33 @@ The following keywords are related to counterfactual explanations.
   - Authors: Amir-Hossein Karimi, Bernhard Schölkopf, Isabel Valera
   - Proceedings: Proceedings of the 2021 ACM conference on fairness, accountability, and transparency (2021)
 
+- [Counterfactual Explainable Recommendation](https://dl.acm.org/doi/abs/10.1145/3459637.3482420)
+  - Authors: Juntao Tan, Shuyuan Xu, Yingqiang Ge, Yunqi Li, Xu Chen, Yongfeng Zhang
+  - Proceedings: Proceedings of the 30th ACM International Conference on Information &amp; Knowledge Management (2021)
+
+- [Counterfactual Explanations Can Be Manipulated](https://www.hbs.edu/faculty/Pages/item.aspx?num=61912)
+  - Authors: Dylan Slack, Sophie Hilgard, Himabindu Lakkaraju, Sameer Singh
+  - Proceedings: Neural Information Processing Systems (2021)
+
+- [Counterfactual Explanations for Neural Recommenders](https://dl.acm.org/doi/abs/10.1145/3404835.3463005)
+  - Authors: Khanh Hiep Tran, Azin Ghazimatin, Rishiraj Saha Roy 
+  - Proceedings: Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (2021)
+
 - [DECE: Decision Explorer with Counterfactual Explanations for Machine Learning Models](https://ieeexplore.ieee.org/document/9229232)
   - Authors: Furui Cheng, Yao Ming, Huamin Qu
   - Article: IEEE Transactions on Visualization and Computer Graphics (2020)
+
+- [Evaluating the Quality of Machine Learning Explanations: A Survey on Methods and Metrics](https://www.mdpi.com/2079-9292/10/5/593)
+  - Authors: Jianlong Zhou, Amir H. Gandomi, Fang Chen, Andreas Holzinger 
+  - Article: Electronics (2021)
+
+- [Explaining Explanations in AI](https://dl.acm.org/doi/10.1145/3287560.3287574)
+  - Authors: Brent Mittelstadt, Chris Russell, Sandra Wachter
+  - Proceedings: Proceedings of the Conference on Fairness, Accountability, and Transparency (2021)
+
+- [Interpretable Counterfactual Explanations Guided by Prototypes](https://dl.acm.org/doi/abs/10.1007/978-3-030-86520-7_40)
+  - Authors: Arnaud Van Looveren , Janis Klaise
+  - Proceedings: Machine Learning and Knowledge Discovery in Databases. Research Track: European Conference, ECML PKDD 2021, Bilbao, Spain, September 13–17, 2021, Proceedings, Part III (2021)
 
 - [Ordered Counterfactual Explanation by Mixed-Integer Linear Optimization](https://ojs.aaai.org/index.php/AAAI/article/view/17376)
   - Authors: Kentaro Kanamori, Takuya Takagi, Ken Kobayashi, Yuichi Ike, Kento Uemura, Hiroki Arimura
@@ -69,9 +97,10 @@ The following keywords are related to counterfactual explanations.
   - Article: Critical Analysis of Law (2021)
 
 - [DACE: Distribution-Aware Counterfactual Explanation by Mixed-Integer Linear Optimization](https://www.ijcai.org/proceedings/2020/395)
+99
   - Authors: Kentaro Kanamori, Takuya Takagi, Ken Kobayashi, Hiroki Arimura
+100
   - Proceedings: Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence (2020)
-
 - [Explaining Machine Learning Classifiers through Diverse Counterfactual Examples](https://dl.acm.org/doi/abs/10.1145/3351095.3372850)
   - Authors: Ramaravind K. Mothilal, Amit Sharma, Chenhao Tan
   - Proceedings: Proceedings of the 2020 conference on fairness, accountability, and transparency (2020)
@@ -79,6 +108,14 @@ The following keywords are related to counterfactual explanations.
 - [FACE: Feasible and Actionable Counterfactual Explanations](https://dl.acm.org/doi/abs/10.1145/3375627.3375850)
   - Authors: Rafael Poyiadzi, Kacper Sokol, Raul Santos-Rodriguez, Tijl De Bie, Peter Flach
   - Proceedings: Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (2020)
+
+- [Good Counterfactuals and Where to Find Them: A Case-Based Technique for Generating Counterfactuals for Explainable AI (XAI)](https://dl.acm.org/doi/10.1007/978-3-030-58342-2_11)
+  - Authors: Mark T. Keane, Barry Smyth
+  - Proceedings: Case-Based Reasoning Research and Development: 28th International Conference, ICCBR 2020, Salamanca, Spain, June 8–12, 2020, Proceedings (2020)
+
+- [Learning Model-Agnostic Counterfactual Explanations for Tabular Data](https://dl.acm.org/doi/abs/10.1145/3366423.3380087)
+  - Authors: Martin Pawelczyk, Klaus Broelemann, Gjergji Kasneci
+  - Proceedings: Proceedings of The Web Conference 2020 (2020)
 
 - [Model-Agnostic Counterfactual Explanations for Consequential Decisions](https://proceedings.mlr.press/v108/karimi20a.html)
   - Authors: Amir-Hossein Karimi, Gilles Barthe, Borja Balle, Isabel Valera
@@ -99,6 +136,10 @@ The following keywords are related to counterfactual explanations.
 - [ViCE: visual counterfactual explanations for machine learning models](https://dl.acm.org/doi/10.1145/3377325.3377536)
   - Authors: Oscar Gomez, Steffen Holter, Jun Yuan, Enrico Bertini
   - Proceedings: Proceedings of the 25th International Conference on Intelligent User Interfaces
+
+- [Factual and Counterfactual Explanations for Black Box Decision Making](https://ieeexplore.ieee.org/document/8920138)
+  - Authors: Riccardo Guidotti, Anna Monreale, Fosca Giannotti, Dino Pedreschi, Salvatore Ruggieri, Franco Turini
+  - Article: IEEE Intelligent Systems (2019)
 
 - [Counterfactual Explanations Without Opening the Black Box: Automated Decisions and the GDPR](https://heinonline.org/HOL/LandingPage?handle=hein.journals/hjlt31&div=29&id=&page=)
   - Authors: Sandra Wachter, Brent Mittelstadt, Chris Russell
